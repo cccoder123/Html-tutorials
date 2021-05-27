@@ -57,8 +57,10 @@ body {font-family: Arial, Helvetica, sans-serif;}
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close">&times;</span>
-
-</form>
+    <p>You can:</p>
+    <ul>
+      <li>Test your code out <a href="/text-editor/">here</a>.</p>
+    </ul>
   </div>
 
 </div>
