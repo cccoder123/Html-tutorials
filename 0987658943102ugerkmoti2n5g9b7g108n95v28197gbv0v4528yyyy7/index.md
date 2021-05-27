@@ -46,7 +46,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 </head>
 <body>
 
-<h2>Modal Example</h2>
+<h2>Html tutorials</h2>
 
 <!-- Trigger/Open The Modal -->
 <button id="myBtn">Html Tutorials</button>
