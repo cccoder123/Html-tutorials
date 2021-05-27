@@ -59,7 +59,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
     <span class="close">&times;</span>
     <p>You can:</p>
     <ul>
-      <li>Test your code out <a href="/text-editor/">here</a>.</p>
+      <li>Test your code out <a href="cccoder123.github.io/Html-tutorials/text-editor/">here</a>.</p>
     </ul>
   </div>
 
